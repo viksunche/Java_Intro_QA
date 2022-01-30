@@ -8,22 +8,20 @@ public class MyFirstJava {
 
         //write the text in the console
         System.out.println("  Please enter your name: " );
-
         //Scanner is class for reading values in console
         Scanner scanner = new Scanner(System.in);
 
         String customer = scanner.next();
 
-        System.out.println(" Read the name of customer: " +
-                customer);
+        /*System.out.println(" Read the name of customer: " +
+                customer);*/
 
         System.out.println( " Please enter your hobby: ");
 
-        Scanner scanner1 = new Scanner(System.in);
-
         String hobby = scanner.next();
 
-        System.out.println( " Read the hobby of customer: " + hobby);
+        System.out.println( " Read the name of customer: " +
+                customer + " Read the hobby of customer: " + hobby);
 
     }
 
