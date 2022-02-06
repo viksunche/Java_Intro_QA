@@ -23,6 +23,7 @@ public class MyFirstJava {
         System.out.println( " Read the name of customer: " +
                 customer + " Read the hobby of customer: " + hobby);
 
+
     }
 
 
