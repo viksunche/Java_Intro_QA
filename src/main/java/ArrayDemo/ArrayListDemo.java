@@ -9,11 +9,11 @@ public class ArrayListDemo {
         cities.add(0,"Varna");
         cities.add("London");
 
-        System.out.println("Citoes before Brexit are: " + cities);
+        System.out.println("Cities before Brexit are: " + cities);
 
         cities.remove("London");
 
-        System.out.printf("Citoes before Brexit are: %s%n", cities);
+        System.out.printf("Cities after Brexit are: %s%n", cities);
         System.out.println(cities.indexOf("Sofia"));
     }
 

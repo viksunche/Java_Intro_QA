@@ -20,7 +20,7 @@ public class HwString {
         System.out.println("New String:" + newString);
 
         if (testString.equals(newString)){
-            System.out.println("Strings are eqaul.");
+            System.out.println("Strings are equal.");
         }else {
             System.out.println("Strings are not equal.");
         }
