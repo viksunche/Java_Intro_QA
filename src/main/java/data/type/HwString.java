@@ -31,11 +31,5 @@ public class HwString {
         System.out.println( "\" " + beCounted + "\" " + "has" + stringArray.length + " words.");
 
             }
-
-
-
-
-
-
     }
 
