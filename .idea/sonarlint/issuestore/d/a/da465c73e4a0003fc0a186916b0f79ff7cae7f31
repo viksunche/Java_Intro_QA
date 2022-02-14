@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(îˆÑ
+R
+java:S1854"<Remove this useless assignment to local variable "iterator".(Ğï¿
+D
+java:S1481".Remove this unused "factorial" local variable.(•Ï›
+e
+java:S3973"JUse indentation to denote the code conditionally executed by this "while".(Ô›Çúÿÿÿÿ
+’
+java:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(Ğï¿

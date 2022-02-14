@@ -1,0 +1,24 @@
+
+a
+java:S1854"DRemove this useless assignment to local variable "someRandomString".(äžåˆ8é‚’í/
+]
+java:S1854"BRemove this useless assignment to local variable "someRandomchar".(’ÿ³ßùÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "age".(Žœþ½
+>
+java:S1481"(Remove this unused "age" local variable.(Žœþ½
+N
+java:S1481"3Remove this unused "someRandomchar" local variable.(’ÿ³ßùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(øì¨Ø
+R
+java:S1481"5Remove this unused "someRandomString" local variable.(äžåˆ8ï‚’í/
+K
+java:S2209"5Change this instance-reference to a static reference.(÷Ñõ¹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òâÕÃþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ž¢Æýùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ž¢Æýùÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(ÕŽ‚”ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÚÎËýÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Þ÷û£
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ý±¨§ûÿÿÿÿ

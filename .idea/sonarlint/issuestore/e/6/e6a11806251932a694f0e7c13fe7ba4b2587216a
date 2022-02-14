@@ -1,0 +1,14 @@
+
+U
+java:S1854	":Remove this useless assignment to local variable "cities".(Šå×öûÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "number".(áù©ú
+A
+java:S1481"+Remove this unused "number" local variable.(áù©ú
+F
+java:S1481	"+Remove this unused "cities" local variable.(Šå×öûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(á¢’±ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(µ¸²´ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(–Ÿ ¹
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÃÇä¹şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¢¨Ûÿÿÿÿÿ

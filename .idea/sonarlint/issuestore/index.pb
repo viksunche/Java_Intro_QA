@@ -1,0 +1,27 @@
+
+P
+ src/main/java/data/type/Dog.java,0\7\0798ef928e94f3c9a91b273e005f50a302fa494a
+\
+,src/main/java/automation/qa/MyFirstJava.java,7\8\78d62213d680aa46a4f45b512eb38ddeb494f790
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+R
+"src/main/java/loops/WhileDemo.java,d\a\da465c73e4a0003fc0a186916b0f79ff7cae7f31
+T
+$src/main/java/loops/DowhileDemo.java,1\2\12f6a2af53fbc44ff6a7bd97228022007622afef
+P
+ src/main/java/loops/ForDemo.java,d\4\d4f04074bf24781f31b12f6cd0568abb2b071754
+T
+$src/main/java/loops/ForEachDemo.java,7\0\701f41262f8ab777301a690b7d42415348d9aebc
+V
+&src/main/java/ArrayDemo/arrayDemo.java,e\6\e6a11806251932a694f0e7c13fe7ba4b2587216a
+Y
+)src/main/java/data/type/StingActions.java,a\3\a379f4351a5674f94ed1a05e326994587d953c07
+V
+&src/main/java/data/type/variables.java,f\4\f453256d0bf34fd0e9984676592910da58a617ac
+R
+"src/main/java/Steak/SteakDemo.java,3\2\3217f94be13b1bb70cba75b387a36fcb04c72645
+Z
+*src/main/java/ArrayDemo/ArrayListDemo.java,d\1\d11ce466e2851be42b638fa3a18f3af4c4e4610b
+U
+%src/main/java/data/type/HwString.java,2\9\29fab54940aa96ebca8a38bfd7cc85cdcb20e095
