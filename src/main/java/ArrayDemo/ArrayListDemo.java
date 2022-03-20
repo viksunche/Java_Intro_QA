@@ -1,5 +1,6 @@
 package ArrayDemo;
 
+import java.io.PrintStream;
 import java.util.ArrayList;
 
 public class ArrayListDemo {
@@ -13,7 +14,7 @@ public class ArrayListDemo {
 
         cities.remove("London");
 
-        System.out.printf("Cities after Brexit are: %s%n", cities);
+        PrintStream printf = System.out.printf("Cities after Brexit are: %s%n", cities);
         System.out.println(cities.indexOf("Sofia"));
     }
 

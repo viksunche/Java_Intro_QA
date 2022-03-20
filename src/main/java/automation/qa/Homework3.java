@@ -10,7 +10,7 @@ public class Homework3 {
         int dayOfTheWeek = scanner.nextInt();
         switch (dayOfTheWeek){
             case 1:
-                System.out.println(" You entered 1, so the week day is MoNday.");
+                System.out.println(" You entered 1, so the week day is Monday.");
             break;
             case 2:
                 System.out.println(" You entered 2, so the week day is Tuesday.");
@@ -65,3 +65,4 @@ public class Homework3 {
     }
 
 }
+
