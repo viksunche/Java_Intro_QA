@@ -1,12 +1,0 @@
-
-f
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÌÖž‹
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Þå“¾üÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö‹‰ðüÿÿÿÿ
-7
-java:S1116"Remove this empty statement.(Ö‹‰ðüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Þå“¾üÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Þå“¾üÿÿÿÿ
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌÖž‹
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊòÓÅùÿÿÿÿ

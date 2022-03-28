@@ -4,7 +4,7 @@ public class Animals implements AnimalActions {
 
     private String name;
     private int age;
-    private String breed;
+    private Breed breed;
 
     public String getName(){
             return name;
@@ -16,22 +16,56 @@ public class Animals implements AnimalActions {
             else {
                 System.out.println( "Invalid data! ");
             }
-     public int getAge() {
-                return age;
-        }
-     public void setAge(int age){
-                if ( age > 0){
-                    this.age = age;
-                }else {
-                    System.out.println( "Invalid data!");
-                }
-
+     public int getAge(){return age;
         }
 
-    public String getBreed() {
+    public Breed getBreed() {
         return breed;
     }
 
-    public void setBreed(String breed) {
-        this.breed = breed;
+       @Override
+    public void sing(){
+        System.out.println( name +" is singing...");
+    }
+
+    @Override
+    public void sing() {
+            System.out.println( name + " is singing..");
+    }
+
+    @Override
+    public void sleep(){
+        System.out.println( name + "is sleeping..");
+    }
+
+    public void setAge(int i) {
+        if ( age > 0){
+            this.age = age;
+        }else {
+            System.out.println( "Invalid data!");
+        }
+    }
+
+    public void setBreed;(Breed breed) {
+        if(!breed.equals(null)){
+            this.breed = breed;
+        }else {
+            System.out.println(" Invalid data.");
+        }
+    }
+
+    public void printData() {
+        System.out.println(" This mouse name is %s%n," +
+                " This mouse age is: %d %n This mouse breed is: %.%n, name age, breed");
+    }
+
+        @Override
+        public void sing() {
+
+        }
+
+        @Override
+        public void sleep() {
+        }
+
     }

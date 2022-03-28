@@ -1,14 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-P
- src/main/java/loops/ForDemo.java,d\4\d4f04074bf24781f31b12f6cd0568abb2b071754
-T
-$src/main/java/loops/ForEachDemo.java,7\0\701f41262f8ab777301a690b7d42415348d9aebc
-R
-"src/main/java/loops/WhileDemo.java,d\a\da465c73e4a0003fc0a186916b0f79ff7cae7f31
-R
-"src/main/java/Steak/SteakDemo.java,3\2\3217f94be13b1bb70cba75b387a36fcb04c72645
 U
 %src/main/java/data/type/HwString.java,2\9\29fab54940aa96ebca8a38bfd7cc85cdcb20e095
 Y
@@ -16,8 +8,20 @@ Y
 P
  src/main/java/data/type/Dog.java,0\7\0798ef928e94f3c9a91b273e005f50a302fa494a
 Z
-*src/main/java/ArrayDemo/ArrayListDemo.java,d\1\d11ce466e2851be42b638fa3a18f3af4c4e4610b
+*src/main/java/automation/qa/Homework3.java,8\0\8061e1822c3f1ebedfc952f64fc1960f5b9ad56b
 T
 $src/main/java/loops/DowhileDemo.java,1\2\12f6a2af53fbc44ff6a7bd97228022007622afef
+P
+ src/main/java/loops/ForDemo.java,d\4\d4f04074bf24781f31b12f6cd0568abb2b071754
+T
+$src/main/java/loops/ForEachDemo.java,7\0\701f41262f8ab777301a690b7d42415348d9aebc
+R
+"src/main/java/loops/WhileDemo.java,d\a\da465c73e4a0003fc0a186916b0f79ff7cae7f31
 S
 #src/main/java/methods/Students.java,7\5\75c44c31ab08306aec2cae6ce3a80cc53bf86daf
+\
+,src/main/java/automation/qa/MyFirstJava.java,7\8\78d62213d680aa46a4f45b512eb38ddeb494f790
+O
+src/main/java/methods/test.java,4\3\43705102dd926ce7bb027984ca548b18f8f10df3
+V
+&src/main/java/data/type/variables.java,f\4\f453256d0bf34fd0e9984676592910da58a617ac
