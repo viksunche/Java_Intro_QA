@@ -1,0 +1,9 @@
+
+W
+java:S1854":Remove this useless assignment to local variable "printf".(˜¤±8ÊşÜù÷/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½½Õï8éşÜù÷/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜¤±8éşÜù÷/
+H
+java:S1481"+Remove this unused "printf" local variable.(˜¤±8éşÜù÷/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷…ìµÿÿÿÿÿ8éşÜù÷/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¢¨Ûÿÿÿÿÿ8ùşÜù÷/
