@@ -10,11 +10,7 @@ public class Test {
         animation.setName("Mini Mouse");
         animation.printData();
     }
-        Mouses mouses =new Mouses();
-        mouses.setAge(40);
-        mouses.setBreed(new Breed("Hhhhh Mouse"));
-        mouses.setName("Micky Mouse");
-        mouses.printData();
+
 
 
 

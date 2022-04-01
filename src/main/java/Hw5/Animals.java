@@ -10,35 +10,18 @@ public class Animals implements AnimalActions {
             return name;
         }
 
-    public int setName(String name) {
-            if (!name.isEmpty()){
-                this.name=name;}
-            else {
-                System.out.println( "Invalid data! ");
-            }
-     public int getAge(){return age;
+    public void setName(String name) {
+        if (!name.isEmpty()) {
+            this.name = name;
+        } else {
+            System.out.println("Invalid data!");
+        }
+    }
+     public int getAge(){
+        return age;
         }
 
-    public Breed getBreed() {
-        return breed;
-    }
-
-       @Override
-    public void sing(){
-        System.out.println( name +" is singing...");
-    }
-
-    @Override
-    public void sing() {
-            System.out.println( name + " is singing..");
-    }
-
-    @Override
-    public void sleep(){
-        System.out.println( name + "is sleeping..");
-    }
-
-    public void setAge(int i) {
+    public void setAge(int age) {
         if ( age > 0){
             this.age = age;
         }else {
@@ -46,7 +29,11 @@ public class Animals implements AnimalActions {
         }
     }
 
-    public void setBreed;(Breed breed) {
+    public Breed getBreed() {
+        return breed;
+    }
+
+    public void setBreed(Breed breed) {
         if(!breed.equals(null)){
             this.breed = breed;
         }else {
@@ -55,8 +42,8 @@ public class Animals implements AnimalActions {
     }
 
     public void printData() {
-        System.out.println(" This mouse name is %s%n," +
-                " This mouse age is: %d %n This mouse breed is: %.%n, name age, breed");
+        System.out.printf(" This mouse name is %s%n," +
+                " This mouse age is: %d %n This mouse breed is: %.%n, name, age, breed");
     }
 
         @Override

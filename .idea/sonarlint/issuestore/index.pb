@@ -25,3 +25,9 @@ O
 src/main/java/methods/test.java,4\3\43705102dd926ce7bb027984ca548b18f8f10df3
 V
 &src/main/java/data/type/variables.java,f\4\f453256d0bf34fd0e9984676592910da58a617ac
+V
+&src/main/java/ArrayDemo/arrayDemo.java,e\6\e6a11806251932a694f0e7c13fe7ba4b2587216a
+Z
+*src/main/java/ArrayDemo/ArrayListDemo.java,d\1\d11ce466e2851be42b638fa3a18f3af4c4e4610b
+R
+"src/main/java/Steak/SteakDemo.java,3\2\3217f94be13b1bb70cba75b387a36fcb04c72645
