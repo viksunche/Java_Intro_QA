@@ -1,4 +1,4 @@
-package Hw5;
+package homework5;
 
 public interface AnimalActions {
     void sing();

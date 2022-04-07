@@ -1,4 +1,4 @@
-package ArrayDemo;
+package arrayDemoTest;
 
 public class arrayDemo {
     static String [] names = new String[3];

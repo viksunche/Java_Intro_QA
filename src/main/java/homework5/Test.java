@@ -1,4 +1,4 @@
-package Hw5;
+package homework5;
 
 public class Test {
     public static void main (String []args){

@@ -1,4 +1,4 @@
-package ArrayDemo;
+package arrayDemoTest;
 
 import java.io.PrintStream;
 import java.util.ArrayList;
